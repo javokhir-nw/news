@@ -1,5 +1,7 @@
 asgrif==3.8.1
 Django==5.0.3
+django-environ==0.10.0
 sqlparse==0.4.4
+pillow==11.0.0
 typing_extensions==4.10.0
 tzdata==2024.1
